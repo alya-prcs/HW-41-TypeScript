@@ -1,0 +1,13 @@
+{
+  "name": "hw-41-typescript",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "node dist/tasks.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
